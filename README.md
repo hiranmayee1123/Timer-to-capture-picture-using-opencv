@@ -1,10 +1,5 @@
 import cv2 
 import time 
-   
-  
-# SET THE COUNTDOWN TIMER 
-# for simplicity we set it to 3 
-# We can also take this as input 
 TIMER = int(20) 
    
 # Open the camera 
